@@ -4,6 +4,7 @@ Link to Prezi Power Point: https://prezi.com/view/3Ka5CLBiXl5BzXYexSCs/
 
 <img width="1485" alt="Screenshot 2023-05-10 at 2 34 45 AM" src="https://github.com/lexscher/data-management-1_final_project/assets/35089689/cbc23b8e-01cd-4cec-bf8e-b68d67d41a4c">
 
+_All data sources are linked at the bottom of the *[Colab Notebook](https://github.com/lexscher/data-management-1_final_project/blob/main/CST2312_DM1_Project_Alexander_schelchere.ipynb)*_
 ---
 
 Assignment Instructions:
